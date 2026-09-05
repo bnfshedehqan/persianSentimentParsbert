@@ -1,0 +1,2 @@
+# persianSentimentParsbert
+Persian Sentiment Parsbert
